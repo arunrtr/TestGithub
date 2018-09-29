@@ -10,7 +10,7 @@ import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
+//lmlmnn,nn,n,n,
     var window: UIWindow?
 
 
